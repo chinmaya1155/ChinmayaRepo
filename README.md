@@ -1,2 +1,2 @@
-# ChinmayaRepo
-This is my Repository
+# Chinmaya Repo
+This is my Repository!
